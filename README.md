@@ -139,24 +139,6 @@ Start chatting with the AI-powered chatbot! 🎉
 
 ---
 
-## Project Structure 📂
-simple-chat-app/
-├── backend/ # Flask backend
-│ ├── app.py # Flask application
-│ ├── requirements.txt # Python dependencies
-│ ├── .env # Environment variables
-│ ├── venv/ # Virtual environment (already set up)
-├── frontend/ # React frontend
-│ ├── public/ # Static assets
-│ ├── src/ # React components
-│ │ ├── components/ # Reusable components
-│ │ ├── App.js # Main application component
-│ │ ├── index.js # Entry point
-│ ├── package.json # Node.js dependencies
-├── .gitignore # Files to ignore in Git
-├── README.md # Project documentation
----
-
 ## Contributing 🤝
 
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these steps:
