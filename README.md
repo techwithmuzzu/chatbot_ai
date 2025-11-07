@@ -4,6 +4,11 @@ Welcome to the **Simple Chat App**! This is a full-stack chat application built 
 
 ---
 
+- This project was developed during my internship.
+- Very very Similar to chatGPT but we have used **Mistral model**.
+  
+---
+
 ## Features ✨
 
 - **AI-Powered Chatbot**: Interact with an AI model (Mistral via Ollama) for dynamic responses.
@@ -164,4 +169,3 @@ We welcome contributions from the community! If you'd like to contribute to this
 - **Ollama** for providing the AI model.
 - **Flask** and **React** communities for their amazing documentation and support.
 - **MongoDB Atlas** for free-tier database hosting.# chatbot_ai
-# chatbot_ai
