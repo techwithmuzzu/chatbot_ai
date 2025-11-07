@@ -1,4 +1,4 @@
-# Simple Chat App 💬
+# Simple AI Chat App 💬
 
 Welcome to the **Simple Chat App**! This is a full-stack chat application built with **Flask** (backend), **React** (frontend), and **MongoDB** (database). The app allows users to chat with an AI-powered chatbot (using Mistral via Ollama) and stores chat history for future reference. The AI responses are dynamically typed for a more interactive experience.
 
